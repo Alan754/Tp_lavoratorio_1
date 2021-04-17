@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1599864137 source:c:\users\alan\desktop\tp1\alan.c
+	"alan.h"
+	<stdlib.h>
+	<stdio.h>
+
+1599863635 source:c:\users\alan\desktop\tp1\main.c
+	<stdlib.h>
+	<stdio.h>
+	"alan.h"
+
+1599861139 c:\users\alan\desktop\tp1\alan.h
+
+1599864137 source:c:\users\alan\desktop\tp_laboratorio_1\tp1 alan peralta\alan.c
+	"alan.h"
+	<stdlib.h>
+	<stdio.h>
+
+1599861139 c:\users\alan\desktop\tp_laboratorio_1\tp1 alan peralta\alan.h
+
+1599863635 source:c:\users\alan\desktop\tp_laboratorio_1\tp1 alan peralta\main.c
+	<stdlib.h>
+	<stdio.h>
+	"alan.h"
+
+1618682345 source:c:\users\54113\desktop\programacion viejo\tp_laboratorio_1\tp1 alan peralta\alan.c
+	"alan.h"
+	<stdlib.h>
+	<stdio.h>
+
+1618682006 c:\users\54113\desktop\programacion viejo\tp_laboratorio_1\tp1 alan peralta\alan.h
+
+1618682442 source:c:\users\54113\desktop\programacion viejo\tp_laboratorio_1\tp1 alan peralta\main.c
+	<stdlib.h>
+	<stdio.h>
+	"alan.h"
+
